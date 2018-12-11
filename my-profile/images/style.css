@@ -1,0 +1,38 @@
+body {
+	background:#F7F9FC;
+	color: black;
+	font-size: 17px;
+	font-weight: lighter;
+}
+h1{
+	font-family: Rubik;
+	color: #575F7D
+	
+}
+
+h2 {
+	font-family:Rubik;
+	font-weight: lighter; 
+	color: #7ECE90
+
+
+}
+
+a {
+	font-family: Rubik;
+	color:blue;
+	font-weight: bold;
+}
+a:hover {
+color: black;
+}
+
+p {
+font-family: Vollkorn;
+color:black;
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
